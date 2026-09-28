@@ -1,0 +1,6 @@
+{
+  "name": "FinTrack",
+  "description": "Smart SMS expense & income tracker with visual analytics, category budgeting alerts, financial goal planning, and local JSON storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
